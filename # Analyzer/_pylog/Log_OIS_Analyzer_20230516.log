@@ -1,0 +1,39 @@
+2023-05-16 18:42:41,804 - [WARNING] [GUI_OIS_Analyzer.py (82 )] [__init__] Current Logging Level : 20
+2023-05-16 18:42:41,804 - [INFO  ] [HK_func_file_folder_control.py (137)] [read_from_ini] History 섹션이 존재합니다. <Section: History>
+2023-05-16 18:42:45,192 - [WARNING] [GUI_OIS_Analyzer.py (208)] [update_lineedit_path_manual] Change folder location to \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\X50 Pro\EIS ON
+2023-05-16 18:45:05,998 - [INFO  ] [HK_func_file_folder_control.py (56 )] [select_folder_location] Selected folder: \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Galaxy S23 Ultra\EIS OFF
+2023-05-16 18:45:05,998 - [WARNING] [GUI_OIS_Analyzer.py (261)] [click_btn_open] Selected Folder : \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Galaxy S23 Ultra\EIS OFF
+2023-05-16 18:45:10,314 - [INFO  ] [GUI_OIS_Analyzer.py (281)] [check_search_option] list filetype: ['.mp4']
+2023-05-16 18:45:10,314 - [INFO  ] [GUI_OIS_Analyzer.py (313)] [click_btn_search] search file type : ['.mp4']
+2023-05-16 18:45:10,337 - [INFO  ] [HK_func_file_folder_control.py (88 )] [make_filelist] Extension : ['.mp4'], Total files: 173, Selected files: 72
+2023-05-16 18:45:27,741 - [WARNING] [GUI_OIS_Analyzer.py (82 )] [__init__] Current Logging Level : 20
+2023-05-16 18:45:27,741 - [INFO  ] [HK_func_file_folder_control.py (137)] [read_from_ini] History 섹션이 존재합니다. <Section: History>
+2023-05-16 18:45:29,939 - [WARNING] [GUI_OIS_Analyzer.py (208)] [update_lineedit_path_manual] Change folder location to \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\X50 Pro\EIS ON
+2023-05-16 18:45:36,685 - [INFO  ] [HK_func_file_folder_control.py (56 )] [select_folder_location] Selected folder: \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Galaxy S23 Ultra\EIS OFF
+2023-05-16 18:45:36,685 - [WARNING] [GUI_OIS_Analyzer.py (261)] [click_btn_open] Selected Folder : \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Galaxy S23 Ultra\EIS OFF
+2023-05-16 18:45:37,496 - [INFO  ] [GUI_OIS_Analyzer.py (284)] [check_search_subdir] Subdir check: False
+2023-05-16 18:45:37,977 - [INFO  ] [GUI_OIS_Analyzer.py (281)] [check_search_option] list filetype: ['.mp4']
+2023-05-16 18:45:37,977 - [INFO  ] [GUI_OIS_Analyzer.py (313)] [click_btn_search] search file type : ['.mp4']
+2023-05-16 18:45:38,011 - [INFO  ] [HK_func_file_folder_control.py (88 )] [make_filelist] Extension : ['.mp4'], Total files: 64, Selected files: 64
+2023-05-16 18:46:49,376 - [WARNING] [GUI_OIS_Analyzer.py (82 )] [__init__] Current Logging Level : 20
+2023-05-16 18:46:49,376 - [INFO  ] [HK_func_file_folder_control.py (137)] [read_from_ini] History 섹션이 존재합니다. <Section: History>
+2023-05-16 18:46:51,871 - [WARNING] [GUI_OIS_Analyzer.py (208)] [update_lineedit_path_manual] Change folder location to \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\X50 Pro\EIS ON
+2023-05-16 18:46:58,560 - [INFO  ] [HK_func_file_folder_control.py (56 )] [select_folder_location] Selected folder: \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Galaxy S23 Ultra\EIS OFF\NEW EVAL
+2023-05-16 18:46:58,560 - [WARNING] [GUI_OIS_Analyzer.py (261)] [click_btn_open] Selected Folder : \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Galaxy S23 Ultra\EIS OFF\NEW EVAL
+2023-05-16 18:46:59,409 - [INFO  ] [GUI_OIS_Analyzer.py (281)] [check_search_option] list filetype: ['.mp4']
+2023-05-16 18:46:59,410 - [INFO  ] [GUI_OIS_Analyzer.py (313)] [click_btn_search] search file type : ['.mp4']
+2023-05-16 18:46:59,423 - [INFO  ] [HK_func_file_folder_control.py (88 )] [make_filelist] Extension : ['.mp4'], Total files: 4, Selected files: 4
+2023-05-16 18:47:42,118 - [WARNING] [GUI_OIS_Analyzer.py (82 )] [__init__] Current Logging Level : 20
+2023-05-16 18:47:42,119 - [INFO  ] [HK_func_file_folder_control.py (137)] [read_from_ini] History 섹션이 존재합니다. <Section: History>
+2023-05-16 18:47:42,541 - [WARNING] [GUI_OIS_Analyzer.py (208)] [update_lineedit_path_manual] Change folder location to \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\X50 Pro\EIS ON
+2023-05-16 18:47:45,317 - [INFO  ] [GUI_OIS_Analyzer.py (281)] [check_search_option] list filetype: ['.mp4']
+2023-05-16 18:47:45,318 - [INFO  ] [GUI_OIS_Analyzer.py (313)] [click_btn_search] search file type : ['.mp4']
+2023-05-16 18:47:45,351 - [INFO  ] [HK_func_file_folder_control.py (88 )] [make_filelist] Extension : ['.mp4'], Total files: 293, Selected files: 66
+2023-05-16 18:48:23,095 - [WARNING] [GUI_OIS_Analyzer.py (82 )] [__init__] Current Logging Level : 20
+2023-05-16 18:48:23,095 - [INFO  ] [HK_func_file_folder_control.py (137)] [read_from_ini] History 섹션이 존재합니다. <Section: History>
+2023-05-16 18:48:26,020 - [WARNING] [GUI_OIS_Analyzer.py (208)] [update_lineedit_path_manual] Change folder location to \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\X50 Pro\EIS ON
+2023-05-16 18:48:33,904 - [INFO  ] [HK_func_file_folder_control.py (56 )] [select_folder_location] Selected folder: \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Find X5 Pro\EIS OFF
+2023-05-16 18:48:33,904 - [WARNING] [GUI_OIS_Analyzer.py (261)] [click_btn_open] Selected Folder : \\150.150.86.75\# Shared_Folder_HDD\# Image Database\# Functional Evaluation\# OIS\# Video pool\Find X5 Pro\EIS OFF
+2023-05-16 18:48:34,505 - [INFO  ] [GUI_OIS_Analyzer.py (281)] [check_search_option] list filetype: ['.mp4']
+2023-05-16 18:48:34,505 - [INFO  ] [GUI_OIS_Analyzer.py (313)] [click_btn_search] search file type : ['.mp4']
+2023-05-16 18:48:34,588 - [INFO  ] [HK_func_file_folder_control.py (88 )] [make_filelist] Extension : ['.mp4'], Total files: 96, Selected files: 64

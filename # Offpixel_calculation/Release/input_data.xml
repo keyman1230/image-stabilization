@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<data>    
+	<pixel_x_pitch_mm>0.0048</pixel_x_pitch_mm>
+	<pixel_y_pitch_mm>0.0048</pixel_y_pitch_mm>
+    <oc_x_pixel>980</oc_x_pixel>
+    <oc_y_pixel>540</oc_y_pixel>	
+    <EFL_mm>6.5726</EFL_mm> 
+	<chart_distance_mm>1000.0</chart_distance_mm>
+	<XY_shake_angle_degree>-0.707</XY_shake_angle_degree>	
+	<Roll_shake_angle_degree>0</Roll_shake_angle_degree>	
+	<XY_shakeaxis_angle_degree>-45.0</XY_shakeaxis_angle_degree>		
+	<csv_path>world_coordinate.csv</csv_path>	
+</data>
